@@ -1,18 +1,14 @@
 {
   "name": "scrapping",
   "version": "1.0.0",
-  "description": "Flipkart Puppeteer Scraper",
-  "main": "server.js",
+  "description": "",
+  "main": "scrapping.js",
   "scripts": {
-    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "engines": {
-    "node": ">=18.0.0"
-  },
   "dependencies": {
     "cheerio": "^1.1.0",
     "chrome": "^0.1.0",
